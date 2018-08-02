@@ -1,5 +1,3 @@
-Same as ReadMe.h for highest version
-
 /*
  * 
  * Base Sketch File for Arduino V1.1
