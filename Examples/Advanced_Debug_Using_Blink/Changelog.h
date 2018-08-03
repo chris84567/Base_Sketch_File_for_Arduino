@@ -2,7 +2,7 @@
  * 
  * Advanced_Debug_Using_Blink
  * 
- * Version 1.0
+ * Version 1.01
  * 
  * By: Joe Conway
  * 
@@ -11,3 +11,6 @@
  * Github Link: https://github.com/chris84567/Base_Sketch_File_for_Arduino
  *  
 */
+
+V1.01
+  -Fixed missing ; on line 60

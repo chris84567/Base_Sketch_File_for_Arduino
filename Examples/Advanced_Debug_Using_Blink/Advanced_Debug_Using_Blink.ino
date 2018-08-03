@@ -2,7 +2,7 @@
  * 
  * Advanced_Debug_Using_Blink
  * 
- * Version 1.0
+ * Version 1.01
  * 
  * By: Joe Conway
  * 
@@ -57,7 +57,7 @@ void setup() { //Setup Arduino
     Serial.println("Debug Mode Enabled"); //Post Sketch Info in Serial
     Serial.println();
     Serial.println("Current Sketch: Advanced Debug Using Blink");
-    Serial.println("Version: 1.0")
+    Serial.println("Version: 1.0");
     Serial.println("Made by: Joe Conway");
     Serial.println("Published to Github on: 08/02/2018");
     Serial.println("Github Link: https://github.com/chris84567/Base_Sketch_File_for_Arduino");
