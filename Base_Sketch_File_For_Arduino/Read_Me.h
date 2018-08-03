@@ -1,5 +1,3 @@
-Same as ReadMe.h for highest version
-
 /*
  * 
  * Base_Sketch_File_for_Arduino
